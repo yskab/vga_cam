@@ -4,4 +4,4 @@
 A verilog Implementation to capture a 640x480 image frame from the OV7670 camera module.  The captured frame is stored on LPDDR ram(Spartan 6 MCB interface) and is sent via SPI protocol to orange pi where it is displayed.  
 The project was implemented on Numato MimasV2 FPGA Board
 
-//near completion
+10-aug-2021: Incomplete, didn't touch this, not interested now, archiving project.
